@@ -1,0 +1,7 @@
+# robots.txt for wtdaviespoetry
+# Controls search engine crawling and indexing behavior
+
+User-agent: *
+Allow: /
+Disallow: /images/
+Crawl-delay: 10
